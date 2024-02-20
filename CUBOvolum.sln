@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CUBOvolum", "CUBOvolum\CUBOvolum.csproj", "{6AF5590C-063E-4F7E-B1B1-2CBE51EB0183}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AF5590C-063E-4F7E-B1B1-2CBE51EB0183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF5590C-063E-4F7E-B1B1-2CBE51EB0183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF5590C-063E-4F7E-B1B1-2CBE51EB0183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF5590C-063E-4F7E-B1B1-2CBE51EB0183}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B24CE24C-7708-4705-B3AC-A6AAD6BC33C9}
+	EndGlobalSection
+EndGlobal
